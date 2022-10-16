@@ -1,1 +1,1 @@
-# Matematick-Anal-za_FIIT-STU
+# MatematickaAnalyza_FIIT-STU
