@@ -1,2 +1,2 @@
 # MatematickaAnalyza_FIIT-STU
-##Pridat testy z predoslych rocnikov
+## Pridat testy z predoslych rocnikov
